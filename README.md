@@ -1,10 +1,14 @@
-
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey%20I'm%20Shreya%20Jha%20👩‍💻&fontSize=38&fontColor=ffffff&desc=Code.%20Create.%20Contribute.&descSize=20&descAlignY=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey%20I'm%20Shreya%20Jha%20👩‍💻&fontSize=38&fontColor=ffffff" />
 </p>
 
-<!-- Typing animation -->
+<!-- Description Below Banner (No Overlap) -->
+<p align="center">
+  <b><i><span style="font-size: 18px; color: #ffffff;">Code. Create. Contribute.</span></i></b>
+</p>
+
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=580&lines=Full+Stack+Dev+%7C+Cloud+Explorer+%7C+Creative+Builder;Building+meaningful+tech+with+aesthetic+vibes;Blending+logic+and+design+with+purpose." />
 </p>
