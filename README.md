@@ -10,7 +10,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=580&lines=Full+Stack+Dev+%7C+Cloud+Explorer+%7C+Creative+Builder;Building+meaningful+tech+with+aesthetic+vibes;Blending+logic+and+design+with+purpose." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=580&lines=FFull+Stack+Dev+%7C+Cloud+Explorer+%7C+Creative+Builder;Building+meaningful+tech+with+aesthetic+vibes;Blending+logic+and+design+with+purpose." />
 </p>
 
 ---
